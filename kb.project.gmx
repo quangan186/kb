@@ -14,16 +14,26 @@
     <sprite>sprites\s_ball_4</sprite>
     <sprite>sprites\s_ball_5</sprite>
     <sprite>sprites\s_play_button</sprite>
+    <sprite>sprites\s_ball_button</sprite>
+    <sprite>sprites\s_can_2</sprite>
+    <sprite>sprites\s_point</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_menu_main</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\p_main_1</path>
+    <path>paths\p_main_2</path>
+    <path>paths\p_main_3</path>
+  </paths>
   <objects name="objects">
     <object>objects\o_mainboard</object>
-    <object>objects\o_ball1</object>
+    <object>objects\o_ball_1</object>
     <object>objects\o_can</object>
     <object>objects\o_play_button</object>
+    <object>objects\o_ball_button</object>
+    <object>objects\o_can_2</object>
+    <object>objects\o_point</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
