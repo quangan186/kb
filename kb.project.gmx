@@ -19,6 +19,7 @@
     <sprite>sprites\s_point</sprite>
     <sprite>sprites\s_can_3</sprite>
     <sprite>sprites\s_can_4</sprite>
+    <sprite>sprites\s_can_5</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_menu_main</background>
@@ -28,6 +29,9 @@
     <path>paths\p_main_2</path>
     <path>paths\p_main_3</path>
   </paths>
+  <scripts name="scripts">
+    <script>scripts\script_input_controller.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\o_mainboard</object>
     <object>objects\o_ball_1</object>
@@ -42,6 +46,8 @@
     <object>objects\o_ball_4</object>
     <object>objects\o_ball_5</object>
     <object>objects\o_can_4</object>
+    <object>objects\o_can_5</object>
+    <object>objects\o_input_controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
