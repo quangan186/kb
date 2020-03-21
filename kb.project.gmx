@@ -31,6 +31,7 @@
   </paths>
   <scripts name="scripts">
     <script>scripts\script_input_controller.gml</script>
+    <script>scripts\script_scale_anim.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\o_mainboard</object>
