@@ -52,7 +52,7 @@
   </views>
   <instances>
     <instance objName="o_mainboard" x="501" y="401" name="inst_E1571625" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_ball_1" x="514" y="1395" name="inst_3AA2EA54" locked="0" code="" scaleX="0.307228922843933" scaleY="0.316091954708099" colour="4294967295" rotation="0"/>
+    <instance objName="o_ball" x="514" y="1395" name="inst_3AA2EA54" locked="0" code="" scaleX="0.307228922843933" scaleY="0.316091954708099" colour="4294967295" rotation="0"/>
     <instance objName="o_can" x="-2" y="290" name="inst_E8DD234C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_can" x="1057" y="303" name="inst_57A295E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_can_3" x="390" y="519" name="inst_AB344041" locked="0" code="" scaleX="0.6875" scaleY="0.703125" colour="4294967295" rotation="0"/>

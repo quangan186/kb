@@ -55,6 +55,7 @@
     <instance objName="o_ball_3" x="783" y="667" name="inst_0260052D" locked="0" code="" scaleX="0.475806444883347" scaleY="0.47976878285408" colour="4294967295" rotation="0"/>
     <instance objName="o_ball_4" x="271" y="1053" name="inst_7A27F655" locked="0" code="" scaleX="0.54285717010498" scaleY="0.557692289352417" colour="4294967295" rotation="0"/>
     <instance objName="o_ball_5" x="576" y="1042" name="inst_D880CC3B" locked="0" code="" scaleX="0.578796565532684" scaleY="0.595375716686249" colour="4294967295" rotation="0"/>
+    <instance objName="o_ball_1" x="219" y="748" name="inst_CDBBE049" locked="0" code="" scaleX="0.479041904211044" scaleY="0.439655184745789" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
