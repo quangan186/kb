@@ -8,5 +8,6 @@ q=(global.ball.y-ymin)/(ymax-ymin);
 global.ball.image_xscale=1-(q*0.7);
 global.ball.image_yscale=1-(q*0.7);
 global.ball.speed=20-(q*8);
+
 show_debug_message("q "+string(q));
 }

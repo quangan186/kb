@@ -4,7 +4,11 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sd_score</sound>
+    <sound>sound\sd_op1</sound>
+    <sound>sound\sd_op2</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\s_mainboard</sprite>
     <sprite>sprites\s_ball_1</sprite>
@@ -13,7 +17,6 @@
     <sprite>sprites\s_ball_3</sprite>
     <sprite>sprites\s_ball_4</sprite>
     <sprite>sprites\s_ball_5</sprite>
-    <sprite>sprites\s_play_button</sprite>
     <sprite>sprites\s_ball_button</sprite>
     <sprite>sprites\s_can_2</sprite>
     <sprite>sprites\s_point</sprite>
@@ -37,7 +40,6 @@
     <object>objects\o_mainboard</object>
     <object>objects\o_ball</object>
     <object>objects\o_can</object>
-    <object>objects\o_play_button</object>
     <object>objects\o_ball_button</object>
     <object>objects\o_can_2</object>
     <object>objects\o_point</object>
