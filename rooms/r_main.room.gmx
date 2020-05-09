@@ -58,6 +58,8 @@
     <instance objName="o_can_3" x="390" y="519" name="inst_AB344041" locked="0" code="" scaleX="0.6875" scaleY="0.703125" colour="4294967295" rotation="0"/>
     <instance objName="o_can_5" x="588" y="493" name="inst_D13525BB" locked="0" code="" scaleX="1.41935479640961" scaleY="1.3400000333786" colour="4294967295" rotation="0"/>
     <instance objName="o_input_controller" x="4" y="11" name="inst_C7132F62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wrapper" x="-125" y="1013" name="inst_80D7BD3B" locked="0" code="" scaleX="1.91250002384186" scaleY="80.129035949707" colour="4294967295" rotation="0"/>
+    <instance objName="o_wrapper" x="1251" y="906" name="inst_BD88D8F3" locked="0" code="" scaleX="2.21250009536743" scaleY="102.419357299805" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
